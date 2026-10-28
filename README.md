@@ -1,0 +1,2 @@
+# ITI-intake47_FullstackUI_SC_Lab1_Task2
+Practice version controlling
